@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+    height: 100%;
+    text-align: center;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  #main {
+    background-color: lightgreen;
+    margin: auto;
+    color: black;
+    padding: 10px;
+    text-align: center;
+  }
+  #fullpage {
+    background-color: green;
+    margin: auto;
+    border: 2px solid darkgreen;
+    width: 66%;
+    color: white;
+    height: 100%;
+    padding: 0px
+  }
+  a {
+    color: lightblue;
+  }
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  #headline {
+    text-align: center;
+  }
+  ul{
+    max-width:550px;
+    margin:0 auto;
+    text-align:left;
+  }
+  li{
+    margin: 10px;
+  }
